@@ -107,7 +107,7 @@ const Countries = [
   { ru:"Джерси",lt:"Džersis",tr:"Jersey", en: 'Jersey',flag: '🇯🇪',code: 'JE', dialCode: '+44', mask: '99999 999999' },
   { ru:"Иордания",lt:"Jordanija",tr:"Ürdün", en: 'Jordan',flag: '🇯🇴',code: 'JO', dialCode: '+962', mask: '99 9999 9999' },
   { ru:"Казахстан",lt:"Kazachstanas",tr:"Kazakistan", en: 'Kazakhstan',flag: '🇰🇿',code: 'KZ', dialCode: '+7', mask: '9 (999) 999 9999' },
-  { ru:"Кения",lt:"Kenija",tr:"Kenya", en: 'Kenya',flag: '🇰🇪',code: 'KE', dialCode: '+254', mask: '9999 999999' },
+  { ru:"Кения",lt:"Kenija",tr:"Kenya", en: 'Kenya',flag: '',code: 'KE', dialCode: '+254', mask: '9999 999999' },
   { ru:"Кирибати",lt:"Kiribatis",tr:"Kiribati", en: 'Kiribati',flag: '🇰🇮',code: 'KI', dialCode: '+686', mask: '99999999' },
   { ru:"Корея, Корейская Народно-Демократическая Республика",lt:"Korėja, Korėjos Liaudies Demokratinė Respublika",tr:"Kore, Kore Demokratik Halk Cumhuriyeti", en: "Korea, Democratic People's Republic of Korea",flag: '🇰🇵',code: 'KP', dialCode: '+850', mask: '(9) 99999' },
   { ru:"Корея, Республика Южная Корея",lt:"Korėja, Pietų Korėjos Respublika",tr:"Güney Kore Cumhuriyeti", en: 'Korea, Republic of South Korea',flag: '🇰🇷',code: 'KR', dialCode: '+82', mask: '999-9999-9999' },
@@ -194,7 +194,7 @@ const Countries = [
   { ru:"Словакия",lt:"Slovakija",tr:"Slovakya", en: 'Slovakia',flag: '🇸🇰',code: 'SK', dialCode: '+421', mask: '9999 999 999' },
   { ru:"Словения",lt:"Slovėnija",tr:"Slovenya", en: 'Slovenia',flag: '🇸🇮',code: 'SI', dialCode: '+386', mask: '999 999 999' },
   { ru:"Соломоновы острова",lt:"Saliamono salos",tr:"Solomon Adaları", en: 'Solomon Islands',flag: '🇸🇧',code: 'SB', dialCode: '+677', mask: '99 99999' },
-  { ru:"Сомали",lt:"Somalis",tr:"Somali", en: 'Somalia',flag: '🇸🇴',code: 'SO', dialCode: '+252', mask: '9 9999999' },
+  { ru:"Сомали",lt:"Somalis",tr:"Somali", en: 'Somalia',flag: '',code: 'SO', dialCode: '+252', mask: '999 999999' },
   { ru:"Южная Африка",lt:"pietų Afrika",tr:"Güney Afrika", en: 'South Africa',flag: '🇿🇦',code: 'ZA', dialCode: '+27', mask: '999 999 9999' },
   { ru:"южный Судан",lt:"Pietų Sudanas",tr:"Güney Sudan", en: 'South Sudan',flag: '🇸🇸',code: 'SS', dialCode: '+211', mask: '9999 999 999' },
   { ru:"Испания",lt:"Ispanija",tr:"ispanya", en: 'Spain',flag: '🇪🇸',code: 'ES', dialCode: '+34', mask: '999 99 99 99' },
@@ -237,4 +237,3 @@ const Countries = [
 ];
 
 export default Countries;
-
